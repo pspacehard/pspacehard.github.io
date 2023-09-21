@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yikai Zhang"
-description              : "Gauss"
+description              : "Guangzhou University"
 repository               : "pspacehard/pspacehard.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Yikai Zhang"
   avatar           : "images/yikai.jpg"
   bio              :
-  location         : "Shenzhen, China"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           :
   googlescholar    :
